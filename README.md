@@ -79,9 +79,7 @@ The application displays the following user details:
 
 #### Tutorial Video
 
-<video src="https://github.com/ImonChakraborty/virtmemcard/assets/tutorial.mp4" controls width="600">
-    Your browser does not support the video tag.
-</video>
+[![The video]](https://github.com/ImonChakraborty/virtmemcard/blob/main/assets/tutorial.mp4)
 
 You can watch the demo above to see the app in action, including QR code refresh and membership card display.
 
