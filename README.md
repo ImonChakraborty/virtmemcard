@@ -79,7 +79,9 @@ The application displays the following user details:
 
 #### Tutorial Video
 
-[![The video]](https://github.com/ImonChakraborty/virtmemcard/blob/main/assets/tutorial.mp4)
+
+https://github.com/user-attachments/assets/4d36aed6-b3b3-4f92-8d14-a5d5dd908171
+
 
 You can watch the demo above to see the app in action, including QR code refresh and membership card display.
 
